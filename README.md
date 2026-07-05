@@ -30,7 +30,7 @@ python main5.py
 
 ##  Screenshot
 
-(Add your project screenshot here)
+https://github.com/sanjayjadhav6508-sketch/Standard-digital-clock/blob/f8609979abbccd8a9159ddfa76f8df1a98f1a991/Screenshot_2026-07-05-12-24-33-009-edit_ru.iiec.pydroid3.jpg
 
 ##  Author
 
